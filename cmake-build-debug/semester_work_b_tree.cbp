@@ -80,7 +80,19 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/007/Desktop/Vigvamcev/semester-work-b-tree/headers/BNode.h">
+			<Option target="semester_work_b_tree"/>
+		</Unit>
+		<Unit filename="C:/Users/007/Desktop/Vigvamcev/semester-work-b-tree/headers/BTree.h">
+			<Option target="semester_work_b_tree"/>
+		</Unit>
 		<Unit filename="C:/Users/007/Desktop/Vigvamcev/semester-work-b-tree/main.cpp">
+			<Option target="semester_work_b_tree"/>
+		</Unit>
+		<Unit filename="C:/Users/007/Desktop/Vigvamcev/semester-work-b-tree/src/BNode.cpp">
+			<Option target="semester_work_b_tree"/>
+		</Unit>
+		<Unit filename="C:/Users/007/Desktop/Vigvamcev/semester-work-b-tree/src/BTree.cpp">
 			<Option target="semester_work_b_tree"/>
 		</Unit>
 		<Unit filename="C:/Users/007/Desktop/Vigvamcev/semester-work-b-tree/CMakeLists.txt">
