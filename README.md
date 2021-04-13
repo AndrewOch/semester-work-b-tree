@@ -1,2 +1,2 @@
 # semester-work-b-tree
- A data structures semester work
+ A data structure semester work
